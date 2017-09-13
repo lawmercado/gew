@@ -26,3 +26,6 @@ Where:
 ### Credits and more Information
 All the quotes from this document is from the [Geneva Emotion Research Group Page](http://www.affective-sciences.org/gew/). Please refer to this page for further information about the GEW.
 They are the authors of GEW and all the credits refering to the GEW itself belongs to them.
+
+### License
+This project is licensed under the GPL-3.0 (GNU General Public License v3.0). For more information about this, refer to the LICENSE file in this repository.
