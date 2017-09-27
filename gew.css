@@ -74,11 +74,17 @@
     border-width: 0.2em;
     border-style: solid;
     cursor: pointer;
-    -webkit-transition: background-color 0.5s;
-    -o-transition: background-color 0.5s;
-    transition: background-color 0.5s;
+    -webkit-transition: background-color 0.5s, transform 0.2s;
+    -o-transition: background-color 0.5s, transform 0.2s;
+    transition: background-color 0.5s, transform 0.2s;
 
     vertical-align: middle;
+}
+
+.gew .gew-emotion > label:hover {
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .gew .gew-neutral {
