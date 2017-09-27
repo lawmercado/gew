@@ -24,8 +24,8 @@ Where:
 > Five degrees of intensity are being proposed, represented by circles of different sizes. In addition, "None" (no emotion felt) and "Other" (different emotion felt) options are provided.
 
 ### Credits and more Information
-All the quotations from this document are from the [Geneva Emotion Research Group Page](http://www.affective-sciences.org/gew/). Please refer to this page for further information about the GEW.
-They are the authors of GEW and all the credits refering to the GEW itself belongs to them.
+* All the quotations from this document are from the [Geneva Emotion Research Group Page](http://www.affective-sciences.org/gew/). Please refer to this page for further information about the GEW. They are the authors of GEW and all the credits refering to the GEW itself belongs to them;
+* The author of this implementation is not in the Geneva Emotion Research Group.
 
 ### License
-This project is licensed under the GPL-3.0 (GNU General Public License v3.0). For more information about this, refer to the [LICENSE file](LICENSE) in this repository.
+This implementation of GEW and the GEW itself can be freely used for **non-commercial research purposes**. If you use the GEW or a modified version of it, please cite the instrument or its adaptation as follows: "…Geneva Emotion Wheel (GEW; see Scherer, 2005; Scherer, Fontaine, Sacharin, & Soriano, 2013). For commercial use of GEW, a license is required. For further information, refer to [Geneva Emotion Research Group Page](http://www.affective-sciences.org/gew/).
